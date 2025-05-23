@@ -1,0 +1,47 @@
+/* Change body color */
+body
+{
+    background-color: #D2D0A0;
+}
+
+.header-bar, .footer-bar {
+    text-align: center;
+    background-color: #73946B;
+    padding: 20px 20px 20px 20px; /* Adjust padding below the logo */
+}
+
+.theNavBar {
+    padding-top: 20px; /* Adjust padding above the navbar */
+}
+
+/* Custom Navbar Styling */
+.theNavBar {
+    background-color: #9EBC8A; /* Blue background */
+    padding: 10px;
+}
+
+.theNavBar a {
+    color: #ffffff !important; /* White text for links */
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+.theNavBar a.active {
+    background-color: #0056b3 !important; /* Darker blue for active link */
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+div.container{
+    padding: 20px;
+}
+
+div.profileBox{
+    padding: 20px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+
+.footer-bar {
+    margin-top: 40px;
+}
